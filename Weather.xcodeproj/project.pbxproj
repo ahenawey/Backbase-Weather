@@ -80,7 +80,7 @@
 		9B4014EE20906C5C00537AB9 /* AddNewLocationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddNewLocationViewController.swift; sourceTree = "<group>"; };
 		9B4014F020906C5C00537AB9 /* AddNewLocationService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddNewLocationService.swift; sourceTree = "<group>"; };
 		9B4014F420906C5C00537AB9 /* HelpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HelpViewController.swift; sourceTree = "<group>"; };
-		9B40150A209070AE00537AB9 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = Weather/Scenes/_Home/HomeViewController.swift; sourceTree = SOURCE_ROOT; };
+		9B40150A209070AE00537AB9 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HomeViewController.swift; path = Weather/Scenes/Home/HomeViewController.swift; sourceTree = SOURCE_ROOT; };
 		9B40150C2090711000537AB9 /* HomePresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomePresenter.swift; sourceTree = "<group>"; };
 		9B4015112090883200537AB9 /* HomeViewControllerTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewControllerTests.swift; sourceTree = "<group>"; };
 		9B4015122090883200537AB9 /* HomePresenterTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomePresenterTests.swift; sourceTree = "<group>"; };
